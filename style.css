@@ -1,0 +1,15 @@
+.card {
+    background-color: blue;
+    /*cor de fundo */
+    border-radius: 5px;
+    /*raio da borda */
+    width: 1200px;
+    /*largura */
+    height: auto;
+    /*altura */
+    margin: auto;
+    /*distancia das bordas externas */
+    padding: 20px;
+    /*distancia das bordas internas */
+    color: white;
+}
