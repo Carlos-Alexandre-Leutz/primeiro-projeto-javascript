@@ -3,6 +3,10 @@
 
 Este é um projeto básico de uma **Lista de Tarefas** desenvolvido com **HTML, CSS e JavaScript puro**, sem o uso de bibliotecas ou frameworks externos. O objetivo principal é permitir ao usuário adicionar, editar e excluir tarefas em uma interface simples e intuitiva.
 
+## 🎓 Official repository for my YouTube programming series.
+
+Confira o tutorial passo a passo aqui: [https://www.youtube.com/watch?v=GfoPyb8NpSg]
+
 ## 📌 Funcionalidades
 
 - ✅ Adicionar novas tarefas
